@@ -1,3 +1,5 @@
+print('Добро пожаловать в калькулятор!')
+
 inp = input().split()
 
 first, second = float(inp[0]), float(inp[2])
